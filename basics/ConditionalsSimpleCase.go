@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("*** simple switch case contidional examples ***")
 	// Control with the conditional 'if' upon the result of an exam, if it passed or not.
 	var examResult int
 	fmt.Println("Introduce your exam result (0 - 10):")
