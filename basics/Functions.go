@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("*** function examples ***")
+
 	// e1 - funtion with string as parameter
 	fmt.Println(greeting("Serge"), ", how is it going")
 

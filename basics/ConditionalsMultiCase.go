@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("*** multi switch case contidional examples ***")
 	var examResult int
 	fmt.Println("Introduce your exam result (0 - 10):")
 	fmt.Scanln(&examResult)

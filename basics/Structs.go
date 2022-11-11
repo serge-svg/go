@@ -20,6 +20,7 @@ func e_struct1() {
 		price:    10,
 		quantity: 100,
 	}
+
 	item2 := item{
 		name:     "item2",
 		price:    20,

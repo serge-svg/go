@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+	fmt.Println("*** arrays and maps examples ***")
 	//e_arrays1()
 	//e_arrays2()
 	//e_arrays3()
